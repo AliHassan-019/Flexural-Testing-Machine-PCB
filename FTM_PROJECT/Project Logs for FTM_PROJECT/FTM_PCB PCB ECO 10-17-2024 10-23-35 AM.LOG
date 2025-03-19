@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=FTM_SCH Member=P1
+Added Component: Designator=P?(PCBComponent_1)
+Added Pin To Net: NetName=AGND Pin=P?-1
+Added Pin To Net: NetName=E+ Pin=P?-1
+Added Pin To Net: NetName=DT Pin=P?-2
+Added Pin To Net: NetName=E- Pin=P?-2
+Added Pin To Net: NetName=A- Pin=P?-3
+Added Pin To Net: NetName=SCK Pin=P?-3
+Added Pin To Net: NetName=+5V Pin=P?-4
+Added Pin To Net: NetName=A+ Pin=P?-4
+Added Member To Class: ClassName=FTM_SCH Member=Component P? Component_1

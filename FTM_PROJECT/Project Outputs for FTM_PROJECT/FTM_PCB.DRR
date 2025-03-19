@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FTM_PCB.PcbDoc   10/17/2024  12:48:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FTM_PCB.TXT
+ASCII RectHoles File : FTM_PCB-RectHoles.TXT
+EIA File   : FTM_PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             6         PTH        75.68mm (2.98inch)
+T2      1.02mm (40mil)                                            Round             30        PTH        119.38mm (4.70inch)
+T3      1.1mm (43mil)                                             Round             10        PTH        63.50mm (2.50inch)
+T4      1.2mm (47mil)                                             Round             15        PTH        195.55mm (7.70inch)
+T5      1.2mm (47mil)                                             Rectangle         3         PTH        30.52mm (1.20inch)
+T6      1.8mm (71mil)                                             Round             4         PTH        13.90mm (0.55inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+
+Total Processing Time (hh:mm:ss) : 00:00:00

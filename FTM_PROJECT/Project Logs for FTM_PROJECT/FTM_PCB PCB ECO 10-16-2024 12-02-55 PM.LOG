@@ -1,0 +1,18 @@
+Added Component: Designator=D?(DIOAD1990W125L900D530)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N5404/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AXIAL LEAD-2 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N5404/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5404/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC3216X70X50LL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-8ENF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1kOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Member To Class: ClassName=FTM_SCH Member=Component D? 1N5404
+Added Member To Class: ClassName=FTM_SCH Member=Component R4 ERJ-8ENF1001V

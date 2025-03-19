@@ -1,0 +1,11 @@
+Added Component: Designator=P?(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Add Pin To Net: Unknown Pin: Pin P1-EN
+Added Pin To Net: NetName=AGND Pin=P?-1
+Added Member To Class: ClassName=FTM_SCH Member=Component P? Component_1
+Added Room: Name=FTM_SCH

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D? Old Footprint=DIOAD1990W125L900D530 New Footprint=DIOM7959X265N
+Change Component Comment : Designator=D? Old Comment=1N5404 New Comment=SS34
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change component parameters: Designator = "D?" ("D?"); Footprint = "DIOAD1990W125L900D530"; UniqueID = "\XTBMCZLR" ("\XTBMCZLR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMC-2 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C

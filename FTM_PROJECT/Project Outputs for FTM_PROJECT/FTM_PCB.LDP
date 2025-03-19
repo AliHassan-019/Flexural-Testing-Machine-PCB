@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Altium Project\FTM\FTM_PROJECT\FTM_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ftm_pcb.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=ftm_pcb-rectholes.txt|DrillLayers=gtl,gbl
